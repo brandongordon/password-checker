@@ -1,4 +1,4 @@
-# password-checker
+# Password Checker Utility
 This password checker utility will check the user submitted password against a number of user defined criteria, including;
 1. Maximum characters
 2. Minimum characters
