@@ -1,5 +1,5 @@
 # password-checker
-This password checker will check the user submitted password against a number of user defined criteria, including;
+This password checker utility will check the user submitted password against a number of user defined criteria, including;
 1. Maximum characters
 2. Minimum characters
 3. Enforced upper-case character
